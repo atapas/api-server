@@ -1,0 +1,13 @@
+{
+  "products": [
+    { "id": "1", "name": "Wall Clock", "price": 200 },
+    { "id": "2", "name": "Pen", "price": 50 },
+    { "id": "3", "name": "NoteBook", "price": 100 },
+    { "id": "4", "name": "Hand Fan", "price": 170 },
+    { "id": "5", "name": "Mug", "price": 130 },
+    { "id": "6", "name": "Container", "price": 110 },
+    { "id": "7", "name": "Chocolate", "price": 100 },
+    { "id": "8", "name": "Iron Box", "price": 1670 },
+    { "id": "9", "name": "Kettle", "price": 1000 }
+  ]
+}

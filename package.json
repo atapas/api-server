@@ -1,0 +1,15 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "A simple JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "npx json-server db/data.json -p 3001"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "0.17.4"
+  }
+}
